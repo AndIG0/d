@@ -1,0 +1,53 @@
+﻿  with_potok.cpp
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(164): warning C4018: <: несоответствие типов со знаком и без знака
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(212): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(260): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(261): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(262): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(263): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(266): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(267): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(268): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(278): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(282): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+opencv_world410d.lib(opencv_world410d.dll) : fatal error LNK1112: тип компьютера модуля "x64" противоречит типу целевого компьютера "x86"

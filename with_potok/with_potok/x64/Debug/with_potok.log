@@ -1,0 +1,54 @@
+﻿  pch.cpp
+  with_potok.cpp
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(141): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(225): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(288): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(289): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(290): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(291): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(294): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(295): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(296): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(306): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+d:\work\programming\study\work_cpp\with_potok\with_potok\with_potok.cpp(310): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+  with_potok.vcxproj -> D:\Work\Programming\Study\work_cpp\with_potok\x64\Debug\with_potok.exe
