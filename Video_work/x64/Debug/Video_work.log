@@ -1,0 +1,27 @@
+﻿  Video_work.cpp
+d:\work\programming\study\work_cpp\video_work\video_work\video_work.cpp(45): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+d:\work\programming\study\work_cpp\video_work\video_work\video_work.cpp(76): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\video_work\video_work\video_work.cpp(91): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+d:\work\programming\study\work_cpp\video_work\video_work\video_work.cpp(96): warning C4244: аргумент: преобразование "_Tp" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\work\programming\study\work_cpp\video_work\video_work\video_work.cpp(124): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Video_work.vcxproj -> D:\Work\Programming\Study\work_cpp\Video_work\x64\Debug\Video_work.exe
