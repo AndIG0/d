@@ -1,0 +1,16 @@
+﻿  CVUse.cpp
+d:\work\programming\study\work_cpp\cvuse\cvuse\cvuse.cpp(54): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\cvuse\cvuse\cvuse.cpp(68): warning C4244: аргумент: преобразование "_Tp" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  CVUse.vcxproj -> D:\Work\Programming\Study\work_cpp\CVUse\x64\Debug\CVUse.exe
