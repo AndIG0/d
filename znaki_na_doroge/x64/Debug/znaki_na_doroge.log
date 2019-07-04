@@ -1,0 +1,53 @@
+﻿  znaki_na_doroge.cpp
+d:\work\programming\study\work_cpp\znaki_na_doroge\znaki_na_doroge\znaki_na_doroge.cpp(128): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+d:\work\programming\study\work_cpp\znaki_na_doroge\znaki_na_doroge\znaki_na_doroge.cpp(212): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+d:\work\programming\study\work_cpp\znaki_na_doroge\znaki_na_doroge\znaki_na_doroge.cpp(259): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\znaki_na_doroge\znaki_na_doroge\znaki_na_doroge.cpp(260): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\znaki_na_doroge\znaki_na_doroge\znaki_na_doroge.cpp(261): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\znaki_na_doroge\znaki_na_doroge\znaki_na_doroge.cpp(262): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\znaki_na_doroge\znaki_na_doroge\znaki_na_doroge.cpp(265): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\znaki_na_doroge\znaki_na_doroge\znaki_na_doroge.cpp(266): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\znaki_na_doroge\znaki_na_doroge\znaki_na_doroge.cpp(267): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+d:\work\programming\study\work_cpp\znaki_na_doroge\znaki_na_doroge\znaki_na_doroge.cpp(277): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+d:\work\programming\study\work_cpp\znaki_na_doroge\znaki_na_doroge\znaki_na_doroge.cpp(281): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+  znaki_na_doroge.vcxproj -> D:\Work\Programming\Study\work_cpp\znaki_na_doroge\x64\Debug\znaki_na_doroge.exe
